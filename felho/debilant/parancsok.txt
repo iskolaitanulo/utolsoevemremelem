@@ -1,0 +1,30 @@
+ls -la minden szar
+ls -l megjeleníthető directorik
+ls -a: mappák
+whoami: melyik felhasználón vagyunk
+help: parancs lista
+passwd: jelszo valtoztatas
+cd: átlépés más directoriba
+dir: listázik de még sem annyira
+cat: egy file tartalmát kiíratja
+ls -la > ~root.txt: beírja a txtbe a parancs kimenetét
+chmod: jogok megváltoztatása
+nano: szövegszerkeztő
+more: txt olvasása
+less: txt olvasása de rövid mint a faszom
+cp: másolás
+parancs --help: segít hogyan kell hasznalni
+mkdir: mappa készítésS
+mkdir alma/barack : ugy csinalsz mappa hogy nem vagy benne helyen
+rm -r: mappa torles
+df: meghajto listázás
+|grep: megkeres egy adot dolgot
+su: felhasználó jézussá transzformálódása
+sudo adduser user 1: felhasználó hozzáadása 
+chmod 711 USER1: jogadás (NE A NŐKNEK!!44!!44!! CIGÁNYOKNAK SE!!44!!4!)
+finger: milyen felhasználók vannak belépve
+apt-get install: letölt dolgok
+
+egyeb fogalmak:
+link: olyan mint egy parancsikon
+man: az a manuál (van benne segítség --help gyakorlatiasabb)

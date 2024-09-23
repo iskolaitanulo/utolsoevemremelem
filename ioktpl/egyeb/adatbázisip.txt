@@ -1,0 +1,24 @@
+CREATE DATABASE adatbázisip
+DEFAULT CHARACTER SET utf8
+COLLATE utf8_hungarian_ci;
+
+USE adatbázisip
+
+CREATE TABLE ip(
+id INT(4) PRIMARY KEY NOT NULL
+hely VARCHAR(25) NOT NULL,
+ip_cím VARCHAR(25) NOT NULL, 
+leirás VARCHAR(25) NOT NULL,
+DATE NOT NULL
+);
+
+
+
+
+INSERT INTO `ip`(`id`, `hely`, `ip_cím`, `leirás`, `DATE`)
+VALUES
+(1, 'Nagy Isti', '1972.10.11', 'Kis Irma', '1973.09.22')
+(2, 'Szabó Józsi', '1970.02.14', 'Kulcsár Edina', '1976.03.12')
+(3, 'Tóth Ottó', '1975.12.16', 'Nagy Judit', '1969.05.13')
+;
+
