@@ -1,0 +1,35 @@
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+div{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+    
+}
+#cim{
+    text-decoration: none;
+    color: white;
+}
+header{
+    background-color: grey;
+}
+head{
+    background-color: grey;
+}
+#kesz{
+    color: white;
+    text-align: center;
+    padding: 300px 0px 0px 0px;
+    
+}

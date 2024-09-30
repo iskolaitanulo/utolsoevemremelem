@@ -24,6 +24,7 @@ sudo adduser user 1: felhasználó hozzáadása
 chmod 711 USER1: jogadás (NE A NŐKNEK!!44!!44!! CIGÁNYOKNAK SE!!44!!4!)
 finger: milyen felhasználók vannak belépve
 apt-get install: letölt dolgok
+apt-get upgrade: frissít
 
 egyeb fogalmak:
 link: olyan mint egy parancsikon
